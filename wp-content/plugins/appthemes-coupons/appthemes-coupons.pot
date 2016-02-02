@@ -1,0 +1,201 @@
+# Copyright (C) 2014 AppThemes Coupons
+# This file is distributed under the same license as the AppThemes Coupons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AppThemes Coupons 1.1\n"
+"POT-Creation-Date: 2014-08-16 09:02+0100\n"
+"PO-Revision-Date: 2014-08-16 09:03+0100\n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: coupons-admin.php:20 coupons-meta-class.php:55 coupons.php:196
+#: coupons.php:201
+msgid "Coupon Code"
+msgstr ""
+
+#: coupons-admin.php:21
+msgid "Discount"
+msgstr ""
+
+#: coupons-admin.php:22
+msgid "Usage"
+msgstr ""
+
+#: coupons-admin.php:23
+msgid "Expires"
+msgstr ""
+
+#: coupons-admin.php:24
+msgid "Status"
+msgstr ""
+
+#: coupons-admin.php:60
+#, php-format
+msgid "%d / Unlimited"
+msgstr ""
+
+#: coupons-admin.php:62
+#, php-format
+msgctxt "Coupon usage, 1 - uses, 2 - limit"
+msgid "%1$d / %2$d"
+msgstr ""
+
+#: coupons-admin.php:68
+msgid "Not expiring"
+msgstr ""
+
+#: coupons-admin.php:76
+msgid "Active"
+msgstr ""
+
+#: coupons-admin.php:78
+msgid "Inactive"
+msgstr ""
+
+#: coupons-meta-class.php:8
+msgid "Coupon Details"
+msgstr ""
+
+#: coupons-meta-class.php:50
+msgid "( MM/DD/YYYY )"
+msgstr ""
+
+#: coupons-meta-class.php:63
+msgid "Discount Amount"
+msgstr ""
+
+#: coupons-meta-class.php:71
+msgid "Discount Type"
+msgstr ""
+
+#: coupons-meta-class.php:75
+#, php-format
+msgid "Flat Discount (%s)"
+msgstr ""
+
+#: coupons-meta-class.php:76
+msgid "Percentage Discount (%)"
+msgstr ""
+
+#: coupons-meta-class.php:80
+msgid "Start Date"
+msgstr ""
+
+#: coupons-meta-class.php:89
+msgid "End Date"
+msgstr ""
+
+#: coupons-meta-class.php:98
+msgid "Use Limit"
+msgstr ""
+
+#: coupons-meta-class.php:101 coupons-meta-class.php:110
+msgid "( 0 for Unlimited )"
+msgstr ""
+
+#: coupons-meta-class.php:107
+msgid "Use Limit Per User"
+msgstr ""
+
+#: coupons.php:115 coupons.php:116 coupons.php:126 coupons.php:234
+msgid "Coupons"
+msgstr ""
+
+#: coupons.php:117
+msgid "Add New"
+msgstr ""
+
+#: coupons.php:118
+msgid "Add New Coupon"
+msgstr ""
+
+#: coupons.php:119
+msgid "Edit Coupon"
+msgstr ""
+
+#: coupons.php:120
+msgid "New Coupon"
+msgstr ""
+
+#: coupons.php:121
+msgid "View Coupon"
+msgstr ""
+
+#: coupons.php:122
+msgid "Search Coupons"
+msgstr ""
+
+#: coupons.php:123
+msgid "No coupons found"
+msgstr ""
+
+#: coupons.php:124
+msgid "No coupons found in Trash"
+msgstr ""
+
+#: coupons.php:125
+msgid "Parent Coupon:"
+msgstr ""
+
+#: coupons.php:168 coupons.php:169
+msgid "Coupon updated."
+msgstr ""
+
+#: coupons.php:170
+msgid "Coupon created."
+msgstr ""
+
+#: coupons.php:171
+msgid "Coupon saved."
+msgstr ""
+
+#: coupons.php:172
+msgid "Coupon scheduled."
+msgstr ""
+
+#: coupons.php:173
+msgid "Coupon draft updated."
+msgstr ""
+
+#: coupons.php:209
+#, php-format
+msgid "Coupon Code: \"%s\""
+msgstr ""
+
+#: coupons.php:237
+msgid "Have a Coupon Code? Enter it here."
+msgstr ""
+
+#: coupons.php:266 coupons.php:272 coupons.php:277
+msgid "Entered Coupon Code is invalid."
+msgstr ""
+
+#: coupons.php:285
+msgid "This coupon has been used too many times."
+msgstr ""
+
+#: coupons.php:296
+msgid "You have used this coupon too many times.."
+msgstr ""
+
+#: coupons.php:372
+msgid "AppThemes Coupons could not run."
+msgstr ""
+
+#: coupons.php:375
+msgid ""
+"AppThemes Coupons does not support the current theme. Please use a "
+"compatible AppThemes Product."
+msgstr ""

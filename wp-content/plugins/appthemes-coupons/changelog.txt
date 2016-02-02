@@ -1,0 +1,11 @@
+v 1.1
+Added discount, usage, expires and status columns to admin page
+Fixed issue where user was able to add coupon multiple times to order
+Fixed issue where plugin deactivates itself when using multisite and different theme
+
+v 1.0.3
+Textdomain files are now properly loaded
+Plugin will now deactivate if the current theme does not support AppThemes Payments
+Will no longer create three-decimal prices
+Fixed rounding issue with flat discounts
+Fixed issue where Coupons would give invalid number to PayPal

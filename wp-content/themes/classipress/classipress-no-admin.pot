@@ -1,0 +1,3231 @@
+# Translation of ClassiPress
+# Copyright (C) 2012 ClassiPress
+# This file can be distributed under the ClassiPress terms
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassiPress 3.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-05 10:47+0100\n"
+"PO-Revision-Date: 2012-12-05 10:47+0100\n"
+"Last-Translator: AppThemes\n"
+"Language-Team: AppThemes\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2;_x:1,2c;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:1,2,3c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22
+msgid "Whoops! Page Not Found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"The page or ad listing you are trying to reach no longer exists or has "
+"expired."
+msgstr ""
+
+#: 404.php:44 search.php:77 includes/theme-actions.php:218
+msgid "Sponsored Links"
+msgstr ""
+
+#: attachment.php:19
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:20
+#, php-format
+msgid "&larr; Return to %s"
+msgstr ""
+
+#: attachment.php:31
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr ""
+
+#: attachment.php:44
+#, php-format
+msgid "<span class=\"%1$s\">Uploaded</span> %2$s"
+msgstr ""
+
+#: attachment.php:55
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:58
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:66 includes/theme-comments.php:36
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:108
+msgid "&larr; prev"
+msgstr ""
+
+#: attachment.php:108
+msgid "next &rarr;"
+msgstr ""
+
+#: author.php:30
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: author.php:39 sidebar-ad.php:100 sidebar-user.php:48
+msgid "Member Since:"
+msgstr ""
+
+#: author.php:40 tpl-profile.php:97
+msgid "Website:"
+msgstr ""
+
+#: author.php:41 sidebar-user.php:67 includes/theme-profile.php:19
+msgid "Twitter"
+msgstr ""
+
+#: author.php:42 sidebar-user.php:68 includes/theme-profile.php:20
+msgid "Facebook"
+msgstr ""
+
+#: author.php:49 single-ad_listing.php:142
+msgid "Description"
+msgstr ""
+
+#: author.php:62 author.php:71
+msgid "Ads"
+msgstr ""
+
+#: author.php:63 author.php:85
+msgid "Posts"
+msgstr ""
+
+#: author.php:71
+msgid "Latest items listed"
+msgstr ""
+
+#: author.php:85
+msgid "Recent blog posts"
+msgstr ""
+
+#: comments-ad_listing.php:11 comments-page.php:11 comments.php:11
+msgid "Please do not load this page directly."
+msgstr ""
+
+#: comments-ad_listing.php:15 comments-page.php:15 comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "No Responses"
+msgstr ""
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "One Response"
+msgstr ""
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "% Responses"
+msgstr ""
+
+#: comments-ad_listing.php:33 comments-page.php:33 comments.php:33
+msgid "to"
+msgstr ""
+
+#: comments-ad_listing.php:47 comments-page.php:47 comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: comments-ad_listing.php:49 comments-page.php:49 comments.php:49
+msgid "Newer Comments"
+msgstr ""
+
+#: comments-ad_listing.php:63 comments-page.php:63 comments.php:63
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: featured.php:38 examples/classipress-child/index.php:23
+msgid "Featured Listings"
+msgstr ""
+
+#: footer.php:27
+msgid "All Rights Reserved."
+msgstr ""
+
+#: footer.php:34
+msgid "Classified Ads Software"
+msgstr ""
+
+#: footer.php:34
+msgid "Powered by"
+msgstr ""
+
+#: header.php:68
+msgid "Post an Ad"
+msgstr ""
+
+#: index.php:26 tpl-categories.php:24 includes/theme-widgets.php:15
+msgid "Ad Categories"
+msgstr ""
+
+#: index.php:46 index.php:65
+msgid "Just Listed"
+msgstr ""
+
+#: index.php:47 index.php:90
+msgid "Most Popular"
+msgstr ""
+
+#: index.php:48 index.php:112
+msgid "Random"
+msgstr ""
+
+#: index.php:65 index.php:90 index.php:112
+msgid "Classified Ads"
+msgstr ""
+
+#: index.php:79 index.php:99 index.php:127
+msgid "View More Ads"
+msgstr ""
+
+#: loop.php:40
+msgid "Continue reading &raquo;"
+msgstr ""
+
+#: page.php:44
+msgid "Edit Page"
+msgstr ""
+
+#: page.php:66
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:29 includes/theme-functions.php:406
+#: includes/theme-functions.php:2070 includes/theme-searchbar.php:24
+#: includes/theme-widgets.php:43
+msgid "What are you looking for?"
+msgstr ""
+
+#: search.php:30 search.php:49
+#, php-format
+msgid "Search for '%s' returned %s results"
+msgstr ""
+
+#: search.php:51 includes/theme-actions.php:109
+msgid "Sorry, no listings were found."
+msgstr ""
+
+#: sidebar-ad.php:20
+msgid "Map"
+msgstr ""
+
+#: sidebar-ad.php:21
+msgid "Contact"
+msgstr ""
+
+#: sidebar-ad.php:22
+msgid "Poster"
+msgstr ""
+
+#: sidebar-ad.php:58
+msgid "You must be logged in to inquire about this ad."
+msgstr ""
+
+#: sidebar-ad.php:76
+msgid "Information about the ad poster"
+msgstr ""
+
+#: sidebar-ad.php:84
+msgid "Listed by:"
+msgstr ""
+
+#: sidebar-ad.php:114
+msgid "Other items listed by"
+msgstr ""
+
+#: sidebar-ad.php:132
+msgid "No other ads by this poster found."
+msgstr ""
+
+#: sidebar-ad.php:140
+msgid "Latest items listed by"
+msgstr ""
+
+#: sidebar-blog.php:10
+msgid "Popular"
+msgstr ""
+
+#: sidebar-blog.php:11 includes/sidebar-popular.php:57
+msgid "Comments"
+msgstr ""
+
+#: sidebar-blog.php:12
+msgid "Tags"
+msgstr ""
+
+#: sidebar-page.php:14 sidebar.php:103
+msgid "BlogRoll"
+msgstr ""
+
+#: sidebar-page.php:32 sidebar.php:120
+msgid "Meta"
+msgstr ""
+
+#: sidebar-user.php:15
+msgid "User Options"
+msgstr ""
+
+#: sidebar-user.php:22 includes/theme-functions.php:220
+msgid "My Dashboard"
+msgstr ""
+
+#: sidebar-user.php:23 sidebar.php:30 framework/kernel/view-edit-profile.php:8
+msgid "Edit Profile"
+msgstr ""
+
+#: sidebar-user.php:24
+msgid "WordPress Admin"
+msgstr ""
+
+#: sidebar-user.php:25
+msgid "Log Out"
+msgstr ""
+
+#: sidebar-user.php:42
+msgid "Account Information"
+msgstr ""
+
+#: sidebar-user.php:49
+msgid "Last Login:"
+msgstr ""
+
+#: sidebar-user.php:56 tpl-membership-confirm.php:97
+#: includes/forms/step3-membership.php:46
+msgid "Membership Pack:"
+msgstr ""
+
+#: sidebar-user.php:57 tpl-membership-confirm.php:98
+#: includes/forms/step3-membership.php:47
+msgid "Membership Expires:"
+msgstr ""
+
+#: sidebar-user.php:58 tpl-membership-confirm.php:99
+msgid "Renew or Extend Your Membership Pack"
+msgstr ""
+
+#: sidebar-user.php:60 includes/forms/step1-membership.php:19
+msgid "Purchase a Membership Pack"
+msgstr ""
+
+#: sidebar-user.php:84
+msgid "Account Statistics"
+msgstr ""
+
+#: sidebar-user.php:108
+msgid "Live Listings:"
+msgstr ""
+
+#: sidebar-user.php:109
+msgid "Pending Listings:"
+msgstr ""
+
+#: sidebar-user.php:110
+msgid "Offline Listings:"
+msgstr ""
+
+#: sidebar-user.php:111
+msgid "Total Listings:"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Join Now!"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Welcome back,"
+msgstr ""
+
+#: sidebar.php:25
+msgid "You last logged in at:"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Manage your ads or edit your profile from your personalized dashboard."
+msgstr ""
+
+#: sidebar.php:30
+msgid "Manage Ads"
+msgstr ""
+
+#: sidebar.php:68
+msgid "Sub Categories"
+msgstr ""
+
+#: single-ad_listing.php:28
+msgid "Post Was Reported"
+msgstr ""
+
+#: single-ad_listing.php:30
+msgid "Report This Post"
+msgstr ""
+
+#: single-ad_listing.php:73
+msgid "Location:"
+msgstr ""
+
+#: single-ad_listing.php:74
+msgid "Phone:"
+msgstr ""
+
+#: single-ad_listing.php:77
+msgid "URL:"
+msgstr ""
+
+#: single-ad_listing.php:79 single-ad_listing.php:93
+msgid "Listed:"
+msgstr ""
+
+#: single-ad_listing.php:80 single-ad_listing.php:96
+msgid "Expires:"
+msgstr ""
+
+#: single-ad_listing.php:86
+msgid "This item has been sold"
+msgstr ""
+
+#: taxonomy-ad_cat.php:23 taxonomy-ad_tag.php:23
+msgid "RSS Feed"
+msgstr ""
+
+#: taxonomy-ad_cat.php:24
+msgid "Listings for"
+msgstr ""
+
+#: taxonomy-ad_tag.php:24
+msgid "Listings tagged with"
+msgstr ""
+
+#: tpl-add-new-confirm.php:76 tpl-add-new-confirm.php:107
+msgid "View your new ad"
+msgstr ""
+
+#: tpl-add-new-confirm.php:78 tpl-add-new-confirm.php:109
+msgid "Visit your dashboard"
+msgstr ""
+
+#: tpl-add-new-confirm.php:83
+msgid "PayPal - payment pending"
+msgstr ""
+
+#: tpl-add-new-confirm.php:84 includes/theme-emails.php:31
+#: includes/theme-emails.php:425 includes/theme-emails.php:477
+#: includes/gateways/paypal/ipn.php:225 includes/gateways/paypal/ipn.php:255
+#: includes/gateways/paypal/ipn.php:283
+msgid "ClassiPress Admin"
+msgstr ""
+
+#: tpl-add-new-confirm.php:87 includes/theme-emails.php:37
+#: includes/theme-emails.php:431 includes/theme-emails.php:483
+#: includes/gateways/paypal/ipn.php:228 includes/gateways/paypal/ipn.php:258
+#: includes/gateways/paypal/ipn.php:286
+msgid "Dear Admin,"
+msgstr ""
+
+#: tpl-add-new-confirm.php:88
+#, php-format
+msgid ""
+"You are not using IPN on your %s website, and payment for following ad was "
+"not processed yet."
+msgstr ""
+
+#: tpl-add-new-confirm.php:89
+msgid "Please review Your payments and approve an ad."
+msgstr ""
+
+#: tpl-add-new-confirm.php:131 tpl-membership-confirm.php:69
+#: tpl-membership-confirm.php:88
+msgid "Thank You!"
+msgstr ""
+
+#: tpl-add-new-confirm.php:135
+msgid "Your payment has been processed and your ad listing should now be live."
+msgstr ""
+
+#: tpl-add-new-confirm.php:137 includes/forms/step3.php:86
+msgid "Visit your dashboard to make any changes to your ad listing or profile."
+msgstr ""
+
+#: tpl-add-new-confirm.php:147 tpl-membership-confirm.php:108
+#: includes/forms/step2.php:227 includes/forms/step3-membership.php:70
+#: includes/forms/step3.php:111
+msgid "An Error Has Occurred"
+msgstr ""
+
+#: tpl-add-new-confirm.php:151
+msgid ""
+"This ad has already been published or you do not have permission to activate "
+"this ad. Please contact the site admin if you are experiencing any issues."
+msgstr ""
+
+#: tpl-dashboard.php:28
+#, php-format
+msgid "%s's Dashboard"
+msgstr ""
+
+#: tpl-dashboard.php:32
+msgid ""
+"Below you will find a listing of all your classified ads. Click on one of "
+"the options to perform a specific task. If you have any questions, please "
+"contact the site administrator."
+msgstr ""
+
+#: tpl-dashboard.php:38
+msgid "Title"
+msgstr ""
+
+#: tpl-dashboard.php:39
+msgid "Views"
+msgstr ""
+
+#: tpl-dashboard.php:40
+msgid "Status"
+msgstr ""
+
+#: tpl-dashboard.php:41
+msgid "Options"
+msgstr ""
+
+#: tpl-dashboard.php:82
+msgid "Live Until"
+msgstr ""
+
+#: tpl-dashboard.php:85
+msgid "pause ad"
+msgstr ""
+
+#: tpl-dashboard.php:93
+msgid "awaiting approval"
+msgstr ""
+
+#: tpl-dashboard.php:101
+msgid "awaiting payment"
+msgstr ""
+
+#: tpl-dashboard.php:118
+msgid "ended"
+msgstr ""
+
+#: tpl-dashboard.php:126
+msgid "offline"
+msgstr ""
+
+#: tpl-dashboard.php:129
+msgid "restart ad"
+msgstr ""
+
+#: tpl-dashboard.php:173 tpl-dashboard.php:185 tpl-dashboard.php:196
+msgid "Delete Ad"
+msgstr ""
+
+#: tpl-dashboard.php:180
+msgid "Relist Ad"
+msgstr ""
+
+#: tpl-dashboard.php:202
+msgid "Mark Sold"
+msgstr ""
+
+#: tpl-dashboard.php:205
+msgid "Unmark Sold"
+msgstr ""
+
+#: tpl-dashboard.php:225
+msgid "Are you sure you want to delete this ad?"
+msgstr ""
+
+#: tpl-dashboard.php:235
+msgid "You currently have no classified ads."
+msgstr ""
+
+#: tpl-edit-item.php:110
+msgid "Edit Your Ad"
+msgstr ""
+
+#: tpl-edit-item.php:116
+msgid ""
+"Edit the fields below and click save to update your ad. Your changes will be "
+"updated instantly on the site."
+msgstr ""
+
+#: tpl-edit-item.php:173
+msgid "Images:"
+msgstr ""
+
+#: tpl-edit-item.php:173
+msgid "Sorry, image editing is not supported for this ad."
+msgstr ""
+
+#: tpl-edit-item.php:182
+msgid "Cancel"
+msgstr ""
+
+#: tpl-edit-item.php:183
+msgid "Update Ad &raquo;"
+msgstr ""
+
+#: tpl-edit-item.php:195
+msgid ""
+"You have entered an invalid ad id or do not have permission to edit that ad."
+msgstr ""
+
+#: tpl-full-width.php:56
+msgid "No content found."
+msgstr ""
+
+#: tpl-login.php:17 framework/includes/views-login.php:54
+#: framework/templates/form-login.php:20 includes/theme-functions.php:222
+msgid "Login"
+msgstr ""
+
+#: tpl-login.php:21
+msgid "Please complete the fields below to login to your account."
+msgstr ""
+
+#: tpl-login.php:28 tpl-profile.php:50 tpl-registration.php:38
+#: framework/templates/form-login.php:7
+#: framework/templates/form-registration.php:8
+msgid "Username:"
+msgstr ""
+
+#: tpl-login.php:33 tpl-registration.php:49
+#: framework/templates/form-login.php:14
+#: framework/templates/form-registration.php:22
+msgid "Password:"
+msgstr ""
+
+#: tpl-login.php:43 framework/templates/form-login.php:27
+msgid "Remember me"
+msgstr ""
+
+#: tpl-login.php:47
+msgid "Login &raquo;"
+msgstr ""
+
+#: tpl-login.php:53
+msgid "Password Lost and Found"
+msgstr ""
+
+#: tpl-login.php:53 framework/templates/form-login.php:31
+msgid "Lost your password?"
+msgstr ""
+
+#: tpl-membership-confirm.php:73 tpl-membership-confirm.php:92
+msgid ""
+"Your payment has been processed and your membership status should now be "
+"active."
+msgstr ""
+
+#: tpl-membership-confirm.php:75
+#, php-format
+msgid ""
+"Visit your <a href=\"%1$s\">dashboard</a> to review your membership status "
+"details."
+msgstr ""
+
+#: tpl-membership-confirm.php:94 includes/forms/step3-membership.php:43
+msgid "Visit your dashboard to review your membership status details."
+msgstr ""
+
+#: tpl-membership-confirm.php:112
+msgid ""
+"There was a problem processing your membership or payment was not "
+"successful. This error can also occur if you refresh the payment "
+"confirmation page. If you believe your order was not completed successfully, "
+"please contact the site administrator."
+msgstr ""
+
+#: tpl-membership-purchase.php:95
+msgid "Membership Not Enabled"
+msgstr ""
+
+#: tpl-membership-purchase.php:98
+msgid ""
+"Administrator currently has memberships disabled. Please try again later."
+msgstr ""
+
+#: tpl-password-recovery.php:16 framework/includes/views-login.php:186
+msgid "Password Recovery"
+msgstr ""
+
+#: tpl-password-recovery.php:20
+#: framework/templates/form-password-recovery.php:3
+msgid ""
+"Please enter your username or email address. A new password will be emailed "
+"to you."
+msgstr ""
+
+#: tpl-password-recovery.php:27
+#: framework/templates/form-password-recovery.php:9
+msgid "Username or Email:"
+msgstr ""
+
+#: tpl-password-recovery.php:33 tpl-password-reset.php:45
+#: framework/templates/form-password-recovery.php:17
+#: framework/templates/form-password-reset.php:23
+msgid "Reset Password"
+msgstr ""
+
+#: tpl-password-reset.php:16 framework/includes/views-login.php:320
+msgid "Password Reset"
+msgstr ""
+
+#: tpl-password-reset.php:20 framework/templates/form-password-reset.php:2
+msgid "Enter your new password below."
+msgstr ""
+
+#: tpl-password-reset.php:29 framework/templates/form-password-reset.php:8
+msgid "New password"
+msgstr ""
+
+#: tpl-password-reset.php:34 framework/templates/form-password-reset.php:13
+msgid "Confirm new password"
+msgstr ""
+
+#: tpl-password-reset.php:39 tpl-profile.php:141 tpl-registration.php:59
+#: framework/templates/form-password-reset.php:18
+#: framework/templates/form-registration.php:35 includes/theme-enqueue.php:79
+msgid "Strength indicator"
+msgstr ""
+
+#: tpl-password-reset.php:40 tpl-registration.php:60
+#: framework/templates/form-password-reset.php:19
+#: framework/templates/form-registration.php:36
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: tpl-profile.php:35
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: tpl-profile.php:55
+msgid "First Name:"
+msgstr ""
+
+#: tpl-profile.php:60
+msgid "Last Name:"
+msgstr ""
+
+#: tpl-profile.php:65
+msgid "Nickname:"
+msgstr ""
+
+#: tpl-profile.php:70
+msgid "Display Name:"
+msgstr ""
+
+#: tpl-profile.php:92 tpl-registration.php:43
+#: framework/templates/form-registration.php:15
+#: includes/sidebar-contact.php:46
+msgid "Email:"
+msgstr ""
+
+#: tpl-profile.php:102
+msgid "About Me:"
+msgstr ""
+
+#: tpl-profile.php:123
+msgid "New Password:"
+msgstr ""
+
+#: tpl-profile.php:126
+msgid "Leave this field blank unless you would like to change your password."
+msgstr ""
+
+#: tpl-profile.php:131 tpl-registration.php:54
+#: framework/templates/form-registration.php:29
+msgid "Password Again:"
+msgstr ""
+
+#: tpl-profile.php:134
+msgid "Type your new password again."
+msgstr ""
+
+#: tpl-profile.php:142
+msgid "Your password should be at least seven characters long."
+msgstr ""
+
+#: tpl-profile.php:160
+msgid "Thumbnail"
+msgstr ""
+
+#: tpl-profile.php:170
+msgid "Delete existing photo?"
+msgstr ""
+
+#: tpl-profile.php:186
+msgid "Update Profile &raquo;"
+msgstr ""
+
+#: tpl-registration.php:25 framework/includes/views-login.php:442
+#: framework/kernel/functions.php:118
+#: framework/templates/form-registration.php:43
+#: includes/theme-functions.php:222
+msgid "Register"
+msgstr ""
+
+#: tpl-registration.php:29
+msgid ""
+"Complete the fields below to create your free account. Your login details "
+"will be emailed to you for confirmation so make sure to use a valid email "
+"address. Once registration is complete, you will be able to submit your ads."
+msgstr ""
+
+#: tpl-registration.php:69
+msgid "Create Account"
+msgstr ""
+
+#: tpl-registration.php:83
+msgid ""
+"** User registration is currently disabled. Please contact the site "
+"administrator. **"
+msgstr ""
+
+#: wrapper.php:34
+msgid "Debug Mode On"
+msgstr ""
+
+#: examples/classipress-child/index.php:7
+#, php-format
+msgid "There are currently %s featured ad"
+msgid_plural "There are currently %s featured ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/admin/class-dashboard.php:18
+msgid "Latest Tutorials"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:19
+msgid "Latest News"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:20
+msgid "Latest Tweets"
+msgstr ""
+
+#: framework/admin/class-dashboard.php:63 includes/views.php:275
+msgid "Dashboard"
+msgstr ""
+
+#: framework/admin/class-tabs-page.php:204
+#: includes/appthemes-functions.php:105
+msgid "Help"
+msgstr ""
+
+#: framework/admin/importer.php:67
+msgid "CSV Importer"
+msgstr ""
+
+#: framework/admin/importer.php:68
+msgid "Importer"
+msgstr ""
+
+#: framework/admin/importer.php:93
+msgid ""
+"Below you will find a tool which allows you to import content from other "
+"systems via a CSV (comma-separated values) file, which can be edited using a "
+"program like Excel. Note that the file must be in the correct format for the "
+"import tool to work. You will find an example .csv file in the \"examples\" "
+"theme folder."
+msgstr ""
+
+#: framework/admin/importer.php:94
+msgid "Choose a CSV file to upload, then click \"Upload file and import\"."
+msgstr ""
+
+#: framework/admin/importer.php:104
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: framework/admin/importer.php:110
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: framework/admin/importer.php:110
+#, php-format
+msgid "Maximum size: %s"
+msgstr ""
+
+#: framework/admin/importer.php:118
+msgid "Upload file and import"
+msgstr ""
+
+#: framework/admin/importer.php:130
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/admin/importer.php:142
+msgid "The file could not be processed."
+msgstr ""
+
+#: framework/admin/importer.php:144
+#, php-format
+msgid "Imported %s items."
+msgstr ""
+
+#: framework/admin/importer.php:370
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/admin/importer.php:415
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/admin/importer.php:421
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/admin/importer.php:428
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/admin/importer.php:433
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/admin/importer.php:439
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/admin/versions.php:49
+#, php-format
+msgid "Successfully updated to version %s."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:32
+msgid "Images"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:51
+#: includes/theme-functions.php:1055
+msgid "Add Image"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:52
+#, php-format
+msgid "You are allowed to upload %s file(s)."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:52
+#, php-format
+msgid "Maximum file size: %s."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:79
+msgid "Delete"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:102
+msgid "Are you sure?"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:115
+msgid "Allowed Files"
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:218
+msgid "Your listing images are now being processed..."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:234
+#: includes/theme-functions.php:910
+#, php-format
+msgid "Image number %1$d of %2$s has been processed."
+msgstr ""
+
+#: framework/app-plupload/app-plupload.php:250
+#, php-format
+msgid ""
+"You are using the flash uploader. Problems? Try the <a href=\"%s\">browser "
+"uploader</a> instead."
+msgstr ""
+
+#: framework/includes/stats.php:17 includes/appthemes-functions.php:176
+msgid "total views"
+msgstr ""
+
+#: framework/includes/stats.php:17 includes/appthemes-functions.php:176
+msgid "today"
+msgstr ""
+
+#: framework/includes/stats.php:19
+msgid "No views yet"
+msgstr ""
+
+#: framework/includes/views-login.php:143
+msgid ""
+"Cookies are blocked or not supported by your browser. You must enable "
+"cookies to continue."
+msgstr ""
+
+#: framework/includes/views-login.php:147
+msgid "You are now logged out."
+msgstr ""
+
+#: framework/includes/views-login.php:150
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: framework/includes/views-login.php:153
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: framework/includes/views-login.php:156
+msgid "Check your email for your new password."
+msgstr ""
+
+#: framework/includes/views-login.php:159
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: framework/includes/views-login.php:161
+msgid "Your password has been reset. Please login."
+msgstr ""
+
+#: framework/includes/views-login.php:220
+msgid "Sorry, that key does not appear to be valid. Please try again."
+msgstr ""
+
+#: framework/includes/views-login.php:239
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: framework/includes/views-login.php:243
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: framework/includes/views-login.php:255
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: framework/includes/views-login.php:269
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: framework/includes/views-login.php:281
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: framework/includes/views-login.php:283 includes/theme-emails.php:355
+#: includes/theme-emails.php:398
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: framework/includes/views-login.php:284
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: framework/includes/views-login.php:285
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: framework/includes/views-login.php:298
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: framework/includes/views-login.php:304
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: framework/includes/views-login.php:304
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: framework/includes/views-login.php:360
+msgid "The passwords do not match."
+msgstr ""
+
+#: framework/includes/views-login.php:377
+#: framework/includes/views-login.php:380
+#: framework/includes/views-login.php:385
+msgid "Invalid key"
+msgstr ""
+
+#: framework/includes/views-login.php:506
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: framework/includes/views-login.php:508
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: framework/includes/views-login.php:511
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+
+#: framework/includes/views-login.php:516
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: framework/includes/views-login.php:518
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: framework/includes/views-login.php:521
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: framework/includes/views-login.php:535
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr ""
+
+#: framework/includes/views-login.php:537
+msgid "<strong>ERROR</strong>: Please enter the password twice."
+msgstr ""
+
+#: framework/includes/views-login.php:539
+msgid "<strong>ERROR</strong>: The passwords do not match."
+msgstr ""
+
+#: framework/includes/views-login.php:552
+msgid "<strong>ERROR</strong>: The reCaptcha anti-spam response was incorrect."
+msgstr ""
+
+#: framework/includes/views-login.php:568
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#39;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:61
+msgid "Browse:"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:64 includes/theme-functions.php:1487
+msgid "Home"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:316
+msgid "g:i a"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:319
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:319
+msgid "i"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:322
+msgid "g a"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:333
+#: framework/kernel/breadcrumb-trail.php:339
+#: framework/kernel/breadcrumb-trail.php:344
+#: framework/kernel/breadcrumb-trail.php:349
+#: framework/kernel/breadcrumb-trail.php:414
+msgid "Y"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:334
+#: framework/kernel/breadcrumb-trail.php:345
+#: framework/kernel/breadcrumb-trail.php:418
+msgid "F"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:335
+#: framework/kernel/breadcrumb-trail.php:422
+msgid "d"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:340
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:356
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: framework/kernel/breadcrumb-trail.php:360
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/kernel/functions.php:84
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/kernel/functions.php:111
+msgid "Lost password?"
+msgstr ""
+
+#: framework/kernel/functions.php:294
+msgid "No categories"
+msgstr ""
+
+#: framework/kernel/view-edit-profile.php:46
+msgid "Your profile has been updated."
+msgstr ""
+
+#: framework/p2p-core/extra.php:16
+msgid "Posts 2 Posts"
+msgstr ""
+
+#: framework/p2p-core/extra.php:17
+msgid "A list of posts connected to the current post"
+msgstr ""
+
+#: framework/p2p-core/extra.php:34 includes/theme-widgets.php:192
+#: includes/theme-widgets.php:262 includes/theme-widgets.php:416
+#: includes/theme-widgets.php:545 includes/theme-widgets.php:589
+#: includes/theme-widgets.php:626 includes/theme-widgets.php:663
+#: includes/theme-widgets.php:738
+msgid "Title:"
+msgstr ""
+
+#: framework/p2p-core/extra.php:41
+msgid "Connection type:"
+msgstr ""
+
+#: framework/p2p-core/extra.php:46
+msgid "Connection listing:"
+msgstr ""
+
+#: framework/p2p-core/extra.php:52
+msgid "connected"
+msgstr ""
+
+#: framework/p2p-core/extra.php:53
+msgid "related"
+msgstr ""
+
+#: framework/p2p-core/side.php:220
+msgid "Users"
+msgstr ""
+
+#: framework/p2p-core/side.php:229
+msgid "User"
+msgstr ""
+
+#: framework/p2p-core/side.php:230
+msgid "Search Users"
+msgstr ""
+
+#: framework/p2p-core/side.php:231
+msgid "No users found."
+msgstr ""
+
+#: framework/p2p-core/type.php:79
+msgid "Create connections"
+msgstr ""
+
+#: framework/p2p-core/type.php:102
+#, php-format
+msgid "Connected %s"
+msgstr ""
+
+#: framework/scb/AdminPage.php:172
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: framework/scb/AdminPage.php:185 framework/scb/AdminPage.php:196
+msgid "Save Changes"
+msgstr ""
+
+#: framework/scb/AdminPage.php:346
+msgid "Settings"
+msgstr ""
+
+#: framework/templates/form-registration.php:3
+msgid "Complete the fields below to register."
+msgstr ""
+
+#: includes/appthemes-functions.php:98
+msgid "Type the two words:"
+msgstr ""
+
+#: includes/appthemes-functions.php:99
+msgid "Type what you hear:"
+msgstr ""
+
+#: includes/appthemes-functions.php:100
+msgid "Play sound again"
+msgstr ""
+
+#: includes/appthemes-functions.php:101
+msgid "Download sound as MP3"
+msgstr ""
+
+#: includes/appthemes-functions.php:102
+msgid "Visual challenge"
+msgstr ""
+
+#: includes/appthemes-functions.php:103
+msgid "Audio challenge"
+msgstr ""
+
+#: includes/appthemes-functions.php:104
+msgid "Get two new words"
+msgstr ""
+
+#: includes/appthemes-functions.php:106
+msgid "Incorrect. Try again."
+msgstr ""
+
+#: includes/appthemes-functions.php:129
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/appthemes-functions.php:178
+msgid "no views yet"
+msgstr ""
+
+#: includes/appthemes-functions.php:567 includes/appthemes-functions.php:569
+msgid "Perhaps you meant"
+msgstr ""
+
+#: includes/appthemes-functions.php:583
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: includes/appthemes-functions.php:586
+msgid "&lsaquo;&lsaquo; First"
+msgstr ""
+
+#: includes/appthemes-functions.php:587
+msgid "Last &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/appthemes-functions.php:733
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr ""
+
+#: includes/appthemes-functions.php:749
+msgid "All theme options have been deleted."
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:26 includes/sidebar-popular.php:57
+msgid "by"
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:26 includes/sidebar-popular.php:57
+#: includes/theme-comments.php:32
+msgid "on"
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:26
+msgid "% Comments"
+msgstr ""
+
+#: includes/sidebar-blog-posts.php:36
+msgid "There are no blog articles yet."
+msgstr ""
+
+#: includes/sidebar-comments.php:38
+msgid "Comment on article "
+msgstr ""
+
+#: includes/sidebar-contact.php:22
+msgid "Your message has been sent!"
+msgstr ""
+
+#: includes/sidebar-contact.php:24
+msgid "ERROR: Incorrect captcha answer"
+msgstr ""
+
+#: includes/sidebar-contact.php:36
+msgid ""
+"To inquire about this ad listing, complete the form below to send a message "
+"to the ad poster."
+msgstr ""
+
+#: includes/sidebar-contact.php:40
+msgid "Name:"
+msgstr ""
+
+#: includes/sidebar-contact.php:52
+msgid "Subject:"
+msgstr ""
+
+#: includes/sidebar-contact.php:53
+msgid "Re:"
+msgstr ""
+
+#: includes/sidebar-contact.php:58
+msgid "Message:"
+msgstr ""
+
+#: includes/sidebar-contact.php:74
+msgid "Sum of"
+msgstr ""
+
+#: includes/sidebar-contact.php:80
+msgid "Send Inquiry"
+msgstr ""
+
+#: includes/sidebar-gmap.php:123
+msgid "Sorry, the address could not be found."
+msgstr ""
+
+#: includes/sidebar-popular.php:67
+msgid "There are no popular posts yet."
+msgstr ""
+
+#: includes/theme-actions.php:73
+msgid "Ad Reference ID:"
+msgstr ""
+
+#: includes/theme-actions.php:73
+msgid "N/A"
+msgstr ""
+
+#: includes/theme-actions.php:150 includes/theme-actions.php:152
+msgid "No Tags"
+msgstr ""
+
+#: includes/theme-actions.php:177
+msgid "Sorry, no posts could be found."
+msgstr ""
+
+#: includes/theme-comments.php:51
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-comments.php:59
+msgid "Reply"
+msgstr ""
+
+#: includes/theme-comments.php:60
+msgid "Log in to reply."
+msgstr ""
+
+#: includes/theme-comments.php:127 includes/theme-comments.php:191
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/theme-comments.php:127
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/theme-comments.php:138
+#, php-format
+msgid "You must be <a href='%s'>logged in</a> to post a comment."
+msgstr ""
+
+#: includes/theme-comments.php:150
+msgid "Logged in as"
+msgstr ""
+
+#: includes/theme-comments.php:150
+msgid "Logout of this account"
+msgstr ""
+
+#: includes/theme-comments.php:150
+msgid "Logout"
+msgstr ""
+
+#: includes/theme-comments.php:160 includes/forms/step1-membership.php:59
+msgid "Name"
+msgstr ""
+
+#: includes/theme-comments.php:160 includes/theme-comments.php:167
+msgid "(required)"
+msgstr ""
+
+#: includes/theme-comments.php:167
+msgid "Email (will not be visible)"
+msgstr ""
+
+#: includes/theme-comments.php:174
+msgid "Website"
+msgstr ""
+
+#: includes/theme-cron.php:69
+msgid "No expired ads were found."
+msgstr ""
+
+#: includes/theme-cron.php:71
+msgid "The following ads expired and have been taken down from your website: "
+msgstr ""
+
+#: includes/theme-cron.php:72
+msgid "Your cron job has run successfully. "
+msgstr ""
+
+#: includes/theme-cron.php:77
+msgid ""
+"Your cron job has run successfully. However, the pruning ads option is "
+"turned off so no expired ads were taken down from the website."
+msgstr ""
+
+#: includes/theme-cron.php:80
+msgid "ClassiPress Ads Expired"
+msgstr ""
+
+#: includes/theme-cron.php:80
+msgid "Regards"
+msgstr ""
+
+#: includes/theme-cron.php:80 includes/theme-emails.php:55
+#: includes/theme-emails.php:444 includes/theme-emails.php:497
+msgid "ClassiPress"
+msgstr ""
+
+#: includes/theme-cron.php:119
+#, php-format
+msgid "Membership Subscription Ending on %s"
+msgstr ""
+
+#: includes/theme-cron.php:120 includes/theme-emails.php:88
+#: includes/theme-emails.php:133 includes/theme-emails.php:210
+#: includes/theme-emails.php:229 includes/theme-emails.php:535
+#: includes/theme-emails.php:580
+#, php-format
+msgid "%s Admin"
+msgstr ""
+
+#: includes/theme-cron.php:122 includes/theme-emails.php:90
+#: includes/theme-emails.php:135 includes/theme-emails.php:212
+#: includes/theme-emails.php:231 includes/theme-emails.php:537
+#: includes/theme-emails.php:582
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: includes/theme-cron.php:123
+#, php-format
+msgid ""
+"Your membership pack will expire in %d days! Please renew your membership to "
+"continue posting classified ads."
+msgstr ""
+
+#: includes/theme-cron.php:126 includes/theme-emails.php:40
+#: includes/theme-emails.php:51 includes/theme-emails.php:93
+#: includes/theme-emails.php:98 includes/theme-emails.php:138
+#: includes/theme-emails.php:143 includes/theme-emails.php:147
+#: includes/theme-emails.php:151 includes/theme-emails.php:154
+#: includes/theme-emails.php:156 includes/theme-emails.php:434
+#: includes/theme-emails.php:439 includes/theme-emails.php:486
+#: includes/theme-emails.php:493 includes/theme-emails.php:541
+#: includes/theme-emails.php:545 includes/theme-emails.php:548
+#: includes/theme-emails.php:550 includes/gateways/paypal/ipn.php:231
+#: includes/gateways/paypal/ipn.php:239 includes/gateways/paypal/ipn.php:261
+#: includes/gateways/paypal/ipn.php:269 includes/gateways/paypal/ipn.php:289
+#: includes/gateways/paypal/ipn.php:298
+msgid "-----------------"
+msgstr ""
+
+#: includes/theme-cron.php:127
+msgid "Membership Pack: "
+msgstr ""
+
+#: includes/theme-cron.php:128
+msgid "Membership Expires: "
+msgstr ""
+
+#: includes/theme-cron.php:129
+msgid "Renew Your Membership Pack: "
+msgstr ""
+
+#: includes/theme-cron.php:131 includes/theme-emails.php:158
+#: includes/theme-emails.php:552
+#: includes/gateways/banktransfer/banktransfer.php:65
+msgid "For questions or problems, please contact us directly at"
+msgstr ""
+
+#: includes/theme-cron.php:132 includes/theme-emails.php:54
+#: includes/theme-emails.php:101 includes/theme-emails.php:159
+#: includes/theme-emails.php:217 includes/theme-emails.php:239
+#: includes/theme-emails.php:443 includes/theme-emails.php:496
+#: includes/theme-emails.php:553 includes/theme-emails.php:586
+msgid "Regards,"
+msgstr ""
+
+#: includes/theme-cron.php:133 includes/theme-emails.php:102
+#: includes/theme-emails.php:160 includes/theme-emails.php:218
+#: includes/theme-emails.php:240 includes/theme-emails.php:554
+#: includes/theme-emails.php:587
+#, php-format
+msgid "Your %s Team"
+msgstr ""
+
+#: includes/theme-emails.php:30
+msgid "New Ad Submission"
+msgstr ""
+
+#: includes/theme-emails.php:38
+#, php-format
+msgid "The following ad listing has just been submitted on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:39 includes/theme-emails.php:92
+#: includes/theme-emails.php:137 includes/theme-emails.php:433
+msgid "Ad Details"
+msgstr ""
+
+#: includes/theme-emails.php:41 includes/theme-emails.php:94
+#: includes/theme-emails.php:139 includes/theme-emails.php:435
+msgid "Title: "
+msgstr ""
+
+#: includes/theme-emails.php:42 includes/theme-emails.php:95
+#: includes/theme-emails.php:140 includes/theme-emails.php:436
+msgid "Category: "
+msgstr ""
+
+#: includes/theme-emails.php:43 includes/theme-emails.php:437
+msgid "Author: "
+msgstr ""
+
+#: includes/theme-emails.php:46
+msgid "Payment Type: "
+msgstr ""
+
+#: includes/theme-emails.php:46 includes/gateways/admin-gateway-values.php:112
+#: includes/gateways/banktransfer/banktransfer.php:81
+msgid "Bank Transfer"
+msgstr ""
+
+#: includes/theme-emails.php:47 includes/theme-emails.php:148
+#: includes/theme-emails.php:543 includes/gateways/paypal/ipn.php:233
+#: includes/gateways/paypal/ipn.php:263 includes/gateways/paypal/ipn.php:291
+msgid "Transaction ID: "
+msgstr ""
+
+#: includes/theme-emails.php:48 includes/theme-emails.php:149
+msgid "Reference #: "
+msgstr ""
+
+#: includes/theme-emails.php:49 includes/theme-emails.php:150
+#: includes/theme-emails.php:544
+msgid "Total Amount: "
+msgstr ""
+
+#: includes/theme-emails.php:52 includes/theme-emails.php:440
+msgid "Preview Ad: "
+msgstr ""
+
+#: includes/theme-emails.php:53 includes/theme-emails.php:441
+#, php-format
+msgid "Edit Ad: %s"
+msgstr ""
+
+#: includes/theme-emails.php:87 includes/theme-emails.php:132
+#, php-format
+msgid "Your Ad Submission on %s"
+msgstr ""
+
+#: includes/theme-emails.php:91
+#, php-format
+msgid ""
+"Thank you for your recent submission! Your ad listing has been submitted for "
+"review and will not appear live on our site until it has been approved. "
+"Below you will find a summary of your ad listing on the %s website."
+msgstr ""
+
+#: includes/theme-emails.php:96 includes/theme-emails.php:141
+msgid "Status: "
+msgstr ""
+
+#: includes/theme-emails.php:99
+msgid ""
+"You may check the status of your ad(s) at anytime by logging into your "
+"dashboard."
+msgstr ""
+
+#: includes/theme-emails.php:136
+#, php-format
+msgid ""
+"Thank you for your recent submission! Your ad listing has been submitted and "
+"will not appear live on our site until you pay for it. Below you will find a "
+"summary of your ad listing on the %s website."
+msgstr ""
+
+#: includes/theme-emails.php:145
+#: includes/gateways/banktransfer/banktransfer.php:30
+msgid ""
+"Please include the following details when sending the bank transfer. Once "
+"your transfer has been verified, we will then approve your ad listing."
+msgstr ""
+
+#: includes/theme-emails.php:146 includes/theme-emails.php:540
+msgid "Details for Payment"
+msgstr ""
+
+#: includes/theme-emails.php:153 includes/theme-emails.php:547
+#: includes/gateways/banktransfer/banktransfer.php:61
+msgid "Bank Transfer Instructions"
+msgstr ""
+
+#: includes/theme-emails.php:209
+msgid "Your Ad Has Been Approved"
+msgstr ""
+
+#: includes/theme-emails.php:213
+#, php-format
+msgid "Your ad listing, \"%s\" has been approved and is now live on our site."
+msgstr ""
+
+#: includes/theme-emails.php:215
+msgid "You can view your ad by clicking on the following link:"
+msgstr ""
+
+#: includes/theme-emails.php:228
+msgid "Your Ad Has Expired"
+msgstr ""
+
+#: includes/theme-emails.php:232
+#, php-format
+msgid "Your ad listing, \"%s\" has expired."
+msgstr ""
+
+#: includes/theme-emails.php:235
+msgid ""
+"If you would like to relist your ad, please visit your dashboard and click "
+"the \"relist\" link."
+msgstr ""
+
+#: includes/theme-emails.php:281
+#, php-format
+msgid "Someone is interested in your ad listing: %s"
+msgstr ""
+
+#: includes/theme-emails.php:285
+#, php-format
+msgid "Name: %s"
+msgstr ""
+
+#: includes/theme-emails.php:286 includes/theme-emails.php:356
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: includes/theme-emails.php:288
+#, php-format
+msgid "This message was sent from %s"
+msgstr ""
+
+#: includes/theme-emails.php:290
+msgid "Sent from IP Address: "
+msgstr ""
+
+#: includes/theme-emails.php:354
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/theme-emails.php:358
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/theme-emails.php:399
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: includes/theme-emails.php:402
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/theme-emails.php:424
+msgid "Post Reported"
+msgstr ""
+
+#: includes/theme-emails.php:432
+#, php-format
+msgid "The following ad listing has just been reported on your %s website."
+msgstr ""
+
+#: includes/theme-emails.php:476
+msgid "Membership Activation"
+msgstr ""
+
+#: includes/theme-emails.php:484
+#, php-format
+msgid "The following membership has just been purchased on your %s website."
+msgstr ""
+
+#: includes/theme-cron.php:125 includes/theme-emails.php:485
+msgid "Membership Details"
+msgstr ""
+
+#: includes/theme-emails.php:487 includes/gateways/paypal/ipn.php:168
+msgid "Order ID: "
+msgstr ""
+
+#: includes/theme-emails.php:488
+msgid "Pack ID: "
+msgstr ""
+
+#: includes/theme-emails.php:489 includes/theme-emails.php:542
+#: includes/gateways/paypal/ipn.php:171
+msgid "Pack Name: "
+msgstr ""
+
+#: includes/theme-emails.php:490 includes/gateways/paypal/ipn.php:169
+msgid "User ID: "
+msgstr ""
+
+#: includes/theme-emails.php:491 includes/gateways/paypal/ipn.php:170
+msgid "User Login: "
+msgstr ""
+
+#: includes/theme-emails.php:492 includes/gateways/paypal/ipn.php:172
+msgid "Total Cost: "
+msgstr ""
+
+#: includes/theme-emails.php:494
+msgid "Show transactions: "
+msgstr ""
+
+#: includes/theme-emails.php:495
+msgid "Activate membership: "
+msgstr ""
+
+#: includes/theme-emails.php:534
+#, php-format
+msgid "Your Membership Purchase on %s"
+msgstr ""
+
+#: includes/theme-emails.php:538
+msgid ""
+"Thank you for your membership order! Your membership has been submitted and "
+"will not be valid on our site until you pay for it."
+msgstr ""
+
+#: includes/theme-emails.php:539
+#: includes/gateways/banktransfer/banktransfer.php:34
+msgid ""
+"Please include the following details when sending the bank transfer. Once "
+"your transfer has been verified, we will then activate your membership."
+msgstr ""
+
+#: includes/theme-emails.php:579
+msgid "Your membership has been activated"
+msgstr ""
+
+#: includes/theme-emails.php:583
+#, php-format
+msgid ""
+"Your membership, \"%s\" has been activated on our site, and You are ready to "
+"post ad listings."
+msgstr ""
+
+#: includes/theme-emails.php:584
+msgid "You can post your ad by clicking on the following link:"
+msgstr ""
+
+#: includes/theme-enqueue.php:80
+msgid "Very weak"
+msgstr ""
+
+#: includes/theme-enqueue.php:81
+msgid "Weak"
+msgstr ""
+
+#: includes/theme-enqueue.php:82
+msgid "Medium"
+msgstr ""
+
+#: includes/theme-enqueue.php:83
+msgid "Strong"
+msgstr ""
+
+#: includes/theme-enqueue.php:84
+msgid "Mismatch"
+msgstr ""
+
+#: includes/theme-functions.php:187 includes/theme-functions.php:190
+#: includes/forms/step1.php:76 includes/forms/step1.php:78
+msgid "Select one"
+msgstr ""
+
+#: includes/theme-functions.php:220 includes/theme-functions.php:222
+msgid "Welcome,"
+msgstr ""
+
+#: includes/theme-functions.php:220 includes/theme-functions.php:274
+msgid "Log out"
+msgstr ""
+
+#: includes/theme-functions.php:222
+msgid "visitor!"
+msgstr ""
+
+#: includes/theme-functions.php:554
+msgid "No ad details found."
+msgstr ""
+
+#: includes/theme-functions.php:701 includes/theme-functions.php:705
+msgid "Image "
+msgstr ""
+
+#: includes/theme-functions.php:859
+#, php-format
+msgid ""
+"exceeds the %s KB limit by %s KB. Please go back and upload a smaller image."
+msgstr ""
+
+#: includes/theme-functions.php:861
+msgid ""
+"is not a valid image type (.gif, .jpg, .png). Please go back and upload a "
+"different image."
+msgstr ""
+
+#: includes/theme-functions.php:900
+msgid "Your ad images are now being processed..."
+msgstr ""
+
+#: includes/theme-functions.php:951
+msgid "Image"
+msgstr ""
+
+#: includes/theme-functions.php:959
+msgid "Delete Image"
+msgstr ""
+
+#: includes/theme-functions.php:960
+msgid "Upload Date:"
+msgstr ""
+
+#: includes/theme-functions.php:961
+msgid "File Info:"
+msgstr ""
+
+#: includes/theme-functions.php:970
+msgid "Alt Text:"
+msgstr ""
+
+#: includes/theme-functions.php:998
+msgid "Missing Attachment"
+msgstr ""
+
+#: includes/theme-functions.php:1064
+#, php-format
+msgid "You are allowed %s image(s) per ad."
+msgstr ""
+
+#: includes/theme-functions.php:1064
+msgid "KB max file size per image."
+msgstr ""
+
+#: includes/theme-functions.php:1064
+msgid "Check the box next to each image you wish to delete."
+msgstr ""
+
+#: includes/theme-functions.php:1090
+msgid "Error in deleting the image."
+msgstr ""
+
+#: includes/theme-functions.php:1291 includes/theme-functions.php:1304
+#: includes/theme-functions.php:1330 includes/forms/step-functions.php:31
+msgid "This field is required."
+msgstr ""
+
+#: includes/theme-functions.php:1307 includes/forms/step-functions.php:63
+msgid "-- Select --"
+msgstr ""
+
+#: includes/theme-functions.php:1360 includes/theme-widgets.php:446
+#: includes/forms/step-functions.php:107
+msgid "None"
+msgstr ""
+
+#: includes/theme-functions.php:1437 includes/forms/step-functions.php:877
+msgid "days"
+msgstr ""
+
+#: includes/theme-functions.php:1438
+msgid "day"
+msgstr ""
+
+#: includes/theme-functions.php:1439
+msgid "hours"
+msgstr ""
+
+#: includes/theme-functions.php:1440
+msgid "hour"
+msgstr ""
+
+#: includes/theme-functions.php:1441
+msgid "mins"
+msgstr ""
+
+#: includes/theme-functions.php:1442
+msgid "min"
+msgstr ""
+
+#: includes/theme-functions.php:1443
+msgid "secs"
+msgstr ""
+
+#: includes/theme-functions.php:1444
+msgid "remaining"
+msgstr ""
+
+#: includes/theme-functions.php:1445
+msgid "This ad has expired"
+msgstr ""
+
+#: includes/theme-functions.php:1493
+msgid "Ads tagged with"
+msgstr ""
+
+#: includes/theme-functions.php:1589
+msgid "Search results for"
+msgstr ""
+
+#: includes/theme-functions.php:1593
+msgid "Posts tagged with"
+msgstr ""
+
+#: includes/theme-functions.php:1599
+msgid "About"
+msgstr ""
+
+#: includes/theme-functions.php:1619
+msgid "Random Ads"
+msgstr ""
+
+#: includes/theme-functions.php:1621
+msgid "Popular Ads"
+msgstr ""
+
+#: includes/theme-functions.php:1623
+msgid "Latest Ads"
+msgstr ""
+
+#: includes/theme-functions.php:1627
+msgid "Page not found"
+msgstr ""
+
+#: includes/theme-functions.php:1634
+msgid "Page"
+msgstr ""
+
+#: includes/theme-functions.php:1730
+msgid "No matches found"
+msgstr ""
+
+#: includes/theme-functions.php:1909
+msgid "need at least two characters"
+msgstr ""
+
+#: includes/theme-functions.php:2333
+msgid "New Ad Listings"
+msgstr ""
+
+#: includes/theme-functions.php:2338
+msgid "Total Sales"
+msgstr ""
+
+#: includes/theme-functions.php:2442
+msgid "Primary Navigation"
+msgstr ""
+
+#: includes/theme-functions.php:2443
+msgid "Footer Navigation"
+msgstr ""
+
+#: includes/theme-functions.php:2444
+msgid "Theme Dashboard"
+msgstr ""
+
+#: includes/theme-functions.php:2552 includes/gateways/paypal/paypal.php:130
+#, php-format
+msgid "Classified ad listing on %s for %s days"
+msgstr ""
+
+#: includes/theme-functions.php:2557 includes/gateways/paypal/paypal.php:136
+#, php-format
+msgid "Click here to publish your ad on %s"
+msgstr ""
+
+#: includes/theme-functions.php:2580 includes/gateways/paypal/paypal.php:122
+#, php-format
+msgid "Membership on %s for %s days"
+msgstr ""
+
+#: includes/theme-functions.php:2585 includes/gateways/paypal/paypal.php:128
+#, php-format
+msgid "Click here to complete your purchase on %s"
+msgstr ""
+
+#: includes/theme-functions.php:2589
+msgid "Sorry, but there's been an error."
+msgstr ""
+
+#: includes/theme-functions.php:2695 includes/theme-functions.php:2714
+msgid "of price"
+msgstr ""
+
+#: includes/theme-functions.php:2699 includes/theme-functions.php:2709
+#, php-format
+msgid "%s's less per ad"
+msgstr ""
+
+#: includes/theme-functions.php:2703 includes/theme-functions.php:2719
+msgid "Free Posting"
+msgstr ""
+
+#: includes/theme-functions.php:2704 includes/theme-functions.php:2720
+#, php-format
+msgid "%s per ad"
+msgstr ""
+
+#: includes/theme-functions.php:2705 includes/theme-functions.php:2710
+#: includes/theme-functions.php:2715
+msgid "required to post"
+msgstr ""
+
+#: includes/theme-functions.php:2979
+msgid "Edit Post"
+msgstr ""
+
+#: includes/theme-functions.php:2982
+msgid "Edit Ad"
+msgstr ""
+
+#: includes/theme-functions.php:3016 includes/theme-functions.php:3017
+msgid "Active"
+msgstr ""
+
+#: includes/theme-functions.php:3018
+msgid "Chargeback"
+msgstr ""
+
+#: includes/theme-functions.php:3019
+msgid "Completed"
+msgstr ""
+
+#: includes/theme-functions.php:3020
+msgid "Denied"
+msgstr ""
+
+#: includes/theme-functions.php:3021
+msgid "Draft"
+msgstr ""
+
+#: includes/theme-functions.php:3022
+msgid "Expired"
+msgstr ""
+
+#: includes/theme-functions.php:3023
+msgid "Failed"
+msgstr ""
+
+#: includes/theme-functions.php:3024
+msgid "Scheduled"
+msgstr ""
+
+#: includes/theme-functions.php:3025 includes/theme-functions.php:3026
+msgid "Inactive"
+msgstr ""
+
+#: includes/theme-functions.php:3027
+msgid "Pending"
+msgstr ""
+
+#: includes/theme-functions.php:3028
+msgid "Private"
+msgstr ""
+
+#: includes/theme-functions.php:3029
+msgid "Published"
+msgstr ""
+
+#: includes/theme-functions.php:3030
+msgid "Refunded"
+msgstr ""
+
+#: includes/theme-functions.php:3031
+msgid "Reversed"
+msgstr ""
+
+#: includes/theme-functions.php:3032
+msgid "Trash"
+msgstr ""
+
+#: includes/theme-functions.php:3033
+msgid "Unverified"
+msgstr ""
+
+#: includes/theme-functions.php:3034
+msgid "Verified"
+msgstr ""
+
+#: includes/theme-functions.php:3035
+msgid "Voided"
+msgstr ""
+
+#: includes/theme-profile.php:21 includes/gateways/admin-gateway-values.php:54
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/theme-profile.php:29
+msgid "Enter your Twitter username without the URL."
+msgstr ""
+
+#: includes/theme-profile.php:30
+#, php-format
+msgid ""
+"Enter your Facebook username without the URL. <br />Don't have one yet? <a "
+"target='_blank' href='%s'>Get a custom URL.</a>"
+msgstr ""
+
+#: includes/theme-profile.php:31
+msgid "Used for purchasing ads via PayPal (if enabled)."
+msgstr ""
+
+#: includes/theme-profile.php:41
+msgid "Active Membership Pack:"
+msgstr ""
+
+#: includes/theme-profile.php:44
+msgid ""
+"Custom Membership Pack active for the user. Can only be changed by admins."
+msgstr ""
+
+#: includes/theme-profile.php:45
+msgid "Enter Pack ID to activate membership for user."
+msgstr ""
+
+#: includes/theme-profile.php:48
+msgid "Membership Pack Expires Date:"
+msgstr ""
+
+#: includes/theme-profile.php:51
+msgid ""
+"Date for unlimited/dealer posting (if enabled). Can only be changed by "
+"admins."
+msgstr ""
+
+#: includes/theme-profile.php:52
+msgid ""
+"Enter date in format <code>Y-m-d H:i:s</code> Example date: <code>2012-01-26 "
+"13:25:00</code>"
+msgstr ""
+
+#: includes/theme-profile.php:64
+msgid "Extended Profile"
+msgstr ""
+
+#: includes/theme-refine.php:103
+msgid "Refine Results"
+msgstr ""
+
+#: includes/theme-refine.php:157
+#, php-format
+msgid "%s or %s"
+msgstr ""
+
+#: includes/theme-refine.php:167
+msgid "miles"
+msgstr ""
+
+#: includes/theme-refine.php:167
+msgid "kilometers"
+msgstr ""
+
+#: includes/theme-refine.php:193
+msgid "Radius"
+msgstr ""
+
+#: includes/theme-refine.php:281
+msgid "Show Thousands"
+msgstr ""
+
+#: includes/theme-refine.php:325
+msgid "Refine Results &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/theme-searchbar.php:30
+msgid "Search Ads"
+msgstr ""
+
+#: includes/theme-searchbar.php:32 includes/theme-widgets.php:45
+msgid "All Categories"
+msgstr ""
+
+#: includes/theme-security.php:30
+msgid "Access Denied."
+msgstr ""
+
+#: includes/theme-security.php:36
+msgid ""
+"Access Denied. Your site administrator has blocked your access to the "
+"WordPress back-office."
+msgstr ""
+
+#: includes/theme-sidebars.php:14
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:16
+msgid "This is your main ClassiPress sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:24
+msgid "Ad Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:26
+msgid "This is your ClassiPress single ad listing sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:34
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:36
+msgid "This is your ClassiPress page sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:44
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:46
+msgid "This is your ClassiPress blog sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:54
+msgid "Dashboard Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:56
+msgid "This is your ClassiPress dashboard sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:64
+msgid "Author Sidebar"
+msgstr ""
+
+#: includes/theme-sidebars.php:66
+msgid "This is your ClassiPress author sidebar."
+msgstr ""
+
+#: includes/theme-sidebars.php:74
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-sidebars.php:76
+msgid ""
+"This is your ClassiPress footer. You can have up to four items which will "
+"display in the footer from left to right."
+msgstr ""
+
+#: includes/theme-stats.php:32 includes/theme-stats.php:63
+msgid "views"
+msgstr ""
+
+#: includes/theme-stats.php:36 includes/theme-stats.php:67
+msgid "No ads viewed yet."
+msgstr ""
+
+#: includes/theme-widgets.php:32
+msgid "CP Ad Categories"
+msgstr ""
+
+#: includes/theme-widgets.php:47
+msgid "Search"
+msgstr ""
+
+#: includes/theme-widgets.php:66
+msgid "Filter by City"
+msgstr ""
+
+#: includes/theme-widgets.php:85
+msgid "All"
+msgstr ""
+
+#: includes/theme-widgets.php:97
+msgid "No cities found."
+msgstr ""
+
+#: includes/theme-widgets.php:124
+msgid "Places an ad space in the sidebar for 125x125 ads"
+msgstr ""
+
+#: includes/theme-widgets.php:126
+msgid "CP 125x125 Ads"
+msgstr ""
+
+#: includes/theme-widgets.php:188
+msgid "Sponsored Ads"
+msgstr ""
+
+#: includes/theme-widgets.php:197
+msgid "Ads:"
+msgstr ""
+
+#: includes/theme-widgets.php:199
+msgid ""
+"Enter one ad entry per line in the following format:<br /> <code>URL|Image "
+"URL|Image Alt Text|rel</code><br /><strong>Note:</strong> You must hit your "
+"&quot;enter/return&quot; key after each ad entry otherwise the ads will not "
+"display properly."
+msgstr ""
+
+#: includes/theme-widgets.php:204
+msgid "Open ads in a new window?"
+msgstr ""
+
+#: includes/theme-widgets.php:215
+msgid ""
+"This places a Facebook page Like Box in your sidebar to attract and gain "
+"Likes from visitors."
+msgstr ""
+
+#: includes/theme-widgets.php:216
+msgid "CP Facebook Like Box"
+msgstr ""
+
+#: includes/theme-widgets.php:257
+msgid "Facebook Friends"
+msgstr ""
+
+#: includes/theme-widgets.php:267
+msgid "Facebook ID:"
+msgstr ""
+
+#: includes/theme-widgets.php:273
+msgid "Connections"
+msgstr ""
+
+#: includes/theme-widgets.php:278
+msgid "Width"
+msgstr ""
+
+#: includes/theme-widgets.php:283
+msgid "Height"
+msgstr ""
+
+#: includes/theme-widgets.php:295
+msgid "This places a real-time Twitter feed in your sidebar."
+msgstr ""
+
+#: includes/theme-widgets.php:296
+msgid "CP Real-Time Twitter Feed"
+msgstr ""
+
+#: includes/theme-widgets.php:421
+msgid "Twitter Username:"
+msgstr ""
+
+#: includes/theme-widgets.php:426
+msgid "Twitter API Key:"
+msgstr ""
+
+#: includes/theme-widgets.php:431
+msgid "Keyword Tweets:"
+msgstr ""
+
+#: includes/theme-widgets.php:436
+msgid "Display Type:"
+msgstr ""
+
+#: includes/theme-widgets.php:438
+msgid "Show Username Tweets"
+msgstr ""
+
+#: includes/theme-widgets.php:439
+msgid "Show Keyword Tweets"
+msgstr ""
+
+#: includes/theme-widgets.php:444
+msgid "Refresh Mode:"
+msgstr ""
+
+#: includes/theme-widgets.php:447
+msgid "Real-Time Updates"
+msgstr ""
+
+#: includes/theme-widgets.php:448
+msgid "Click Button Updates"
+msgstr ""
+
+#: includes/theme-widgets.php:453
+msgid "Paging Style:"
+msgstr ""
+
+#: includes/theme-widgets.php:455
+msgid "More Button"
+msgstr ""
+
+#: includes/theme-widgets.php:456
+msgid "Next &amp; Previous Buttons"
+msgstr ""
+
+#: includes/theme-widgets.php:457
+msgid "Endless Scrolling"
+msgstr ""
+
+#: includes/theme-widgets.php:463
+msgid "Tweets Shown"
+msgstr ""
+
+#: includes/theme-widgets.php:468
+msgid "Default Language"
+msgstr ""
+
+#: includes/theme-widgets.php:473
+msgid "Show Follow Button"
+msgstr ""
+
+#: includes/theme-widgets.php:476
+msgid "Show Connect Button"
+msgstr ""
+
+#: includes/theme-widgets.php:504
+msgid "Your most recent blog posts"
+msgstr ""
+
+#: includes/theme-widgets.php:505
+msgid "CP Recent Blog Posts"
+msgstr ""
+
+#: includes/theme-widgets.php:551
+msgid "Posts Shown"
+msgstr ""
+
+#: includes/theme-widgets.php:564
+msgid "Your sidebar ad search box"
+msgstr ""
+
+#: includes/theme-widgets.php:565
+msgid "CP Ad Search Box"
+msgstr ""
+
+#: includes/theme-widgets.php:571
+msgid "Search Classified Ads"
+msgstr ""
+
+#: includes/theme-widgets.php:601
+msgid "Your sidebar top ads today"
+msgstr ""
+
+#: includes/theme-widgets.php:602
+msgid "CP Top Ads Today"
+msgstr ""
+
+#: includes/theme-widgets.php:608
+msgid "Popular Ads Today"
+msgstr ""
+
+#: includes/theme-widgets.php:638
+msgid "Your sidebar top ads overall"
+msgstr ""
+
+#: includes/theme-widgets.php:639
+msgid "CP Top Ads Overall"
+msgstr ""
+
+#: includes/theme-widgets.php:645
+msgid "Popular Ads Overall"
+msgstr ""
+
+#: includes/theme-widgets.php:680
+msgid "Site Sponsors"
+msgstr ""
+
+#: includes/theme-widgets.php:701
+msgid "Your most used ad tags in cloud format"
+msgstr ""
+
+#: includes/theme-widgets.php:702
+msgid "CP Ads Tag Cloud"
+msgstr ""
+
+#: includes/theme-widgets.php:712
+msgid "Ad Tags"
+msgstr ""
+
+#: includes/theme-widgets.php:743
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/views.php:6
+msgid "Blog"
+msgstr ""
+
+#: includes/views.php:18
+msgid "Add New"
+msgstr ""
+
+#: includes/views.php:64
+#, php-format
+msgid ""
+"You have active membership pack \"%s\". Membership benefit will apply on the "
+"review page before publishing an ad."
+msgstr ""
+
+#: includes/views.php:101
+msgid "Add New Confirm"
+msgstr ""
+
+#: includes/views.php:123
+msgid "Memberships"
+msgstr ""
+
+#: includes/views.php:151
+msgid "Membership Confirmation"
+msgstr ""
+
+#: includes/views.php:174
+msgid "Edit Item"
+msgstr ""
+
+#: includes/views.php:246
+msgid "There was an error trying to update your ad."
+msgstr ""
+
+#: includes/views.php:266
+msgid "Your ad has been successfully updated."
+msgstr ""
+
+#: includes/views.php:266
+msgid "Return to my dashboard"
+msgstr ""
+
+#: includes/views.php:351
+msgid "Ad has been paused."
+msgstr ""
+
+#: includes/views.php:353
+msgid "Ad has been published."
+msgstr ""
+
+#: includes/views.php:355
+msgid "Ad has been deleted."
+msgstr ""
+
+#: includes/views.php:357
+msgid "Ad has been relisted."
+msgstr ""
+
+#: includes/views.php:359
+msgid "Ad has been marked as sold."
+msgstr ""
+
+#: includes/views.php:361
+msgid "Ad has been unmarked as sold."
+msgstr ""
+
+#: includes/views.php:363
+msgid "You can not relist this ad. Relisting is currently disabled."
+msgstr ""
+
+#: includes/views.php:365
+msgid "You can not relist this ad. Invalid ID of an ad."
+msgstr ""
+
+#: includes/views.php:367
+msgid "You can not relist this ad. Ad is not expired."
+msgstr ""
+
+#: includes/views.php:376
+msgid "Profile"
+msgstr ""
+
+#: includes/views.php:404
+msgid "Categories"
+msgstr ""
+
+#: includes/forms/step-functions.php:167 includes/forms/step1.php:104
+#: includes/forms/step1.php:132
+msgid "Category:"
+msgstr ""
+
+#: includes/forms/step-functions.php:210
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: includes/forms/step-functions.php:219
+msgid "KB max file size per image"
+msgstr ""
+
+#: includes/forms/step-functions.php:256
+#, php-format
+msgid "Featured Listing %s"
+msgstr ""
+
+#: includes/forms/step-functions.php:260
+msgid ""
+"Your listing will appear in the featured slider section at the top of the "
+"front page."
+msgstr ""
+
+#: includes/forms/step-functions.php:272
+msgid "Ad Package:"
+msgstr ""
+
+#: includes/forms/step-functions.php:292 includes/forms/step2.php:29
+msgid ""
+"Error: no ad pack has been defined. Please contact the site administrator."
+msgstr ""
+
+#: includes/forms/step-functions.php:305
+msgid "Coupon Code:"
+msgstr ""
+
+#: includes/forms/step-functions.php:416
+msgid "ERROR: no results found for the default ad form."
+msgstr ""
+
+#: includes/forms/step-functions.php:461
+#, php-format
+msgid ""
+"ERROR: The form template for form ID %s does not exist or the session "
+"variable is empty."
+msgstr ""
+
+#: includes/forms/step-functions.php:473
+#: includes/forms/step2-membership.php:125
+msgid "Payment Method:"
+msgstr ""
+
+#: includes/forms/step-functions.php:482
+msgid "Ad Listing Fee:"
+msgstr ""
+
+#: includes/forms/step-functions.php:484
+#: includes/forms/step2-membership.php:98
+msgid "FREE"
+msgstr ""
+
+#: includes/forms/step-functions.php:491
+msgid "Featured Listing Fee:"
+msgstr ""
+
+#: includes/forms/step-functions.php:501
+#: includes/forms/step2-membership.php:104
+msgid "Coupon:"
+msgstr ""
+
+#: includes/forms/step-functions.php:517
+#: includes/forms/step2-membership.php:61
+msgid "Membership:"
+msgstr ""
+
+#: includes/forms/step-functions.php:529
+#: includes/forms/step2-membership.php:118
+msgid "Total Amount Due:"
+msgstr ""
+
+#: includes/forms/step-functions.php:534
+#: includes/forms/step2-membership.php:119
+msgid "--"
+msgstr ""
+
+#: includes/forms/step-functions.php:554
+msgid "Price depends on category"
+msgstr ""
+
+#: includes/forms/step-functions.php:558
+msgid "Price depends on ad package selected"
+msgstr ""
+
+#: includes/forms/step-functions.php:562
+#, php-format
+msgid "%s of your ad listing price"
+msgstr ""
+
+#: includes/forms/step-functions.php:566
+msgid "Free listing unless featured."
+msgstr ""
+
+#: includes/forms/step-functions.php:571 includes/forms/step-functions.php:577
+msgid "Free"
+msgstr ""
+
+#: includes/forms/step-functions.php:637
+#, php-format
+msgid "ERROR: no ad packs found for ID %s."
+msgstr ""
+
+#: includes/forms/step1-membership.php:35
+#, php-format
+msgid "Membership is currently required in order to post to category %s."
+msgstr ""
+
+#: includes/forms/step1-membership.php:37
+msgid "Membership is currently required."
+msgstr ""
+
+#: includes/forms/step1-membership.php:60
+msgid "Membership Benefit"
+msgstr ""
+
+#: includes/forms/step1-membership.php:61
+msgid "Subscription"
+msgstr ""
+
+#: includes/forms/step1-membership.php:87
+#, php-format
+msgid "%s / %s days"
+msgstr ""
+
+#: includes/forms/step1-membership.php:88
+msgid "Buy Now &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/forms/step1-membership.php:102
+msgid "No membership packs found."
+msgstr ""
+
+#: includes/forms/step1.php:31
+msgid "Submit Your Listing"
+msgstr ""
+
+#: includes/forms/step1.php:54
+msgid "Cost Per Listing:"
+msgstr ""
+
+#: includes/forms/step1.php:70
+msgid "Select a Category:"
+msgstr ""
+
+#: includes/forms/step1.php:86 includes/forms/step1.php:109
+msgid "Go &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/forms/step1.php:105 includes/forms/step1.php:133
+msgid "(change)"
+msgstr ""
+
+#: includes/forms/step1.php:143
+msgid "Continue &rsaquo;&rsaquo;"
+msgstr ""
+
+#: includes/forms/step2-membership.php:38
+msgid "Review Your Membership Purchase"
+msgstr ""
+
+#: includes/forms/step2-membership.php:52
+#, php-format
+msgid ""
+"Your Current Membership (%1$s)  will be canceled upon purchase. This "
+"membership still has %2$s days remaining."
+msgstr ""
+
+#: includes/forms/step2-membership.php:61
+msgid "Membership Renewal:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:66
+msgid "Membership Benefit:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:71
+msgid "Membership Length:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:72
+#, php-format
+msgid "%s more days"
+msgstr ""
+
+#: includes/forms/step2-membership.php:72
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: includes/forms/step2-membership.php:78
+msgid "Previous Expiration:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:83
+msgid "New Expiration:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:97
+msgid "Membership Purchase Fee:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:144 includes/forms/step2.php:204
+msgid ""
+"By clicking the proceed button below, you agree to our terms and conditions."
+msgstr ""
+
+#: includes/forms/step2-membership.php:146 includes/forms/step2.php:206
+msgid "Your IP address has been logged for security purposes:"
+msgstr ""
+
+#: includes/forms/step2-membership.php:150 includes/forms/step2.php:210
+msgid "Go back"
+msgstr ""
+
+#: includes/forms/step2-membership.php:151 includes/forms/step2.php:211
+msgid "Proceed "
+msgstr ""
+
+#: includes/forms/step2.php:115
+#, php-format
+msgid "Coupon code \"%s\" is not active or does not exist."
+msgstr ""
+
+#: includes/forms/step2.php:164
+msgid "Review Your Listing"
+msgstr ""
+
+#: includes/forms/step2.php:183
+msgid "Payment Method"
+msgstr ""
+
+#: includes/forms/step2.php:231
+msgid "Go Back"
+msgstr ""
+
+#: includes/forms/step3-membership.php:21 includes/forms/step3.php:36
+msgid "Final Step"
+msgstr ""
+
+#: includes/forms/step3-membership.php:21
+msgid "Membership Updated"
+msgstr ""
+
+#: includes/forms/step3-membership.php:41
+msgid ""
+"Your order has been completed and your membership status should now be "
+"active."
+msgstr ""
+
+#: includes/forms/step3-membership.php:73
+msgid ""
+"Your session or order has expired or we cannot cannot find your order in our "
+"systems. Please start over to create a valid membership order."
+msgstr ""
+
+#: includes/forms/step3.php:38
+msgid "Ad Listing Received"
+msgstr ""
+
+#: includes/forms/step3.php:80
+msgid "Thank you! Your ad listing has been submitted for review."
+msgstr ""
+
+#: includes/forms/step3.php:81
+msgid "You can check the status by viewing your dashboard."
+msgstr ""
+
+#: includes/forms/step3.php:85
+msgid "Thank you! Your ad listing has been submitted and is now live."
+msgstr ""
+
+#: includes/forms/step3.php:87
+msgid "View your new ad listing."
+msgstr ""
+
+#: includes/forms/step3.php:114
+msgid ""
+"Your session has expired or you are trying to submit a duplicate ad. Please "
+"start over."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:32
+#: includes/gateways/paypal/paypal.php:185
+msgid "PayPal"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:34
+msgid "PayPal Options"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:42
+msgid "Enable PayPal"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:43
+#, php-format
+msgid ""
+"You must have a <a target='_new' href='%s'>PayPal</a> account setup before "
+"using this feature."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:44
+msgid ""
+"Set this to yes if you want to offer PayPal as a payment option on your "
+"site. This is the most popular option. Note: the &quot;Charge for Listing "
+"Ads&quot; option on the pricing page must be set to yes for this option to "
+"work."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:51
+#: includes/gateways/admin-gateway-values.php:85
+#: includes/gateways/admin-gateway-values.php:131
+msgid "Yes"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:52
+#: includes/gateways/admin-gateway-values.php:86
+#: includes/gateways/admin-gateway-values.php:132
+msgid "No"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:56
+msgid ""
+"Enter your PayPal account email address. This is where your money gets sent."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:76
+msgid "Enable PayPal IPN"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:77
+#, php-format
+msgid ""
+"Your web host must support <a target='_new' href='%s'>fsockopen</a> "
+"otherwise this feature will not work. You must also enable IPN within your "
+"PayPal account. See our <a target='_new' href='%s'>tutorial</a> on enabling "
+"Instant Payment Notifications."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:78
+msgid ""
+"IPN stands for instant payment notification and is very powerful. Once a "
+"payment has been made via PayPal, it will then send your site a behind the "
+"scenes confirmation that the payment was made and instantly activate the ad. "
+"If your server does not support this option then your customer must click on "
+"a link and come back to your site before the ad will be activated."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:88
+msgid "Enable IPN Debug"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:89
+#, php-format
+msgid "Debug PayPal IPN emails will be sent to %s."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:90
+msgid ""
+"If you would like to receive the raw IPN post responses from PayPal to see "
+"if payments are being processed correctly, check this box."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:99
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:100
+#, php-format
+msgid ""
+"You must have a <a target='_new' href='%s'>PayPal Sandbox</a> account setup "
+"before using this feature."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:101
+msgid ""
+"By default PayPal is set to live mode. If you would like to test and see if "
+"payments are being processed correctly, check this box to switch to sandbox "
+"mode."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:114
+msgid "Bank Transfer Options"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:122
+msgid "Enable Bank Transfer"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:124
+msgid ""
+"Set this to yes if you want to offer cash payments via bank transfer as a "
+"payment option on your site. Note: the &quot;Charge for Listing Ads&quot; "
+"option on the pricing page must be set to yes for this option to work."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:134
+msgid "Wire Instructions"
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:135
+msgid "Enter your specific bank wire instructions here. HTML can be used."
+msgstr ""
+
+#: includes/gateways/admin-gateway-values.php:136
+msgid ""
+"This will be shown on the payment page after a new ad has been submitted. "
+"You will then need to verify the money has been transfered and then manually "
+"approve the ad. Include your bank account name, number, routing number, "
+"IBAN, or whatever information is necessary to transfer money into your "
+"account. IMPORTANT: THE INFORMATION IN THIS TEXT BOX WILL BE SHOWN ON YOUR "
+"WEB SITE CONFIRMATION PAGE. APPTHEMES IS NOT LIABLE FOR ANY DAMAGES SO BE "
+"VERY CAREFUL WITH WHAT YOU INPUT HERE."
+msgstr ""
+
+#: includes/gateways/gateway.php:17
+msgid "Please wait while we redirect you to our payment page."
+msgstr ""
+
+#: includes/gateways/gateway.php:19
+msgid ""
+"(Click the button below if you are not automatically redirected within 5 "
+"seconds.)"
+msgstr ""
+
+#: includes/gateways/banktransfer/banktransfer.php:49
+msgid "Your Unique Ad Details"
+msgstr ""
+
+#: includes/gateways/banktransfer/banktransfer.php:54
+#: includes/gateways/banktransfer/banktransfer.php:55
+msgid "Transaction ID:"
+msgstr ""
+
+#: includes/gateways/banktransfer/banktransfer.php:54
+msgid "Pack Name:"
+msgstr ""
+
+#: includes/gateways/banktransfer/banktransfer.php:55
+msgid "Reference #:"
+msgstr ""
+
+#: includes/gateways/banktransfer/banktransfer.php:56
+msgid "Total Amount:"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:23
+msgid "Validation post isn't from PayPal"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:75
+msgid "IPN Validation Failed"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:80
+msgid "IPN VERIFIED"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:165
+msgid ""
+"A membership order has been completed. Check to make sure this is a valid "
+"order by comparing this messages Paypal Transaction ID to the respective ID "
+"in the Paypal payment receipt email."
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:173
+msgid "Paypal Transaction ID: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:224
+msgid "PayPal IPN - payment pending"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:229
+#, php-format
+msgid "The following payment is pending on your %s website."
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:230 includes/gateways/paypal/ipn.php:260
+#: includes/gateways/paypal/ipn.php:288
+msgid "Payment Details"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:232 includes/gateways/paypal/ipn.php:262
+#: includes/gateways/paypal/ipn.php:290
+msgid "Payer PayPal address: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:234 includes/gateways/paypal/ipn.php:264
+#: includes/gateways/paypal/ipn.php:292
+msgid "Payer first name: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:235 includes/gateways/paypal/ipn.php:265
+#: includes/gateways/paypal/ipn.php:293
+msgid "Payer last name: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:236 includes/gateways/paypal/ipn.php:266
+#: includes/gateways/paypal/ipn.php:294
+msgid "Payment type: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:237 includes/gateways/paypal/ipn.php:267
+#: includes/gateways/paypal/ipn.php:296
+msgid "Amount: "
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:238 includes/gateways/paypal/ipn.php:268
+#: includes/gateways/paypal/ipn.php:297
+msgid "Full Details"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:254
+msgid "PayPal IPN - payment failed"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:259
+#, php-format
+msgid "The following payment has failed on your %s website."
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:282
+msgid "PayPal IPN - payment refunded/reversed"
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:287
+#, php-format
+msgid "The following payment has been marked as refunded on your %s website."
+msgstr ""
+
+#: includes/gateways/paypal/ipn.php:295
+msgid "Reason code: "
+msgstr ""
+
+#: includes/gateways/paypal/paypal.php:61
+msgid "Continue"
+msgstr ""
